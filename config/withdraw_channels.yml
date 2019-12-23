@@ -25,4 +25,11 @@
   fixed: 8
   fee: 0.0005
   type: WithdrawChannelEthereum
+  - id: 700
+  key: ozeetyy
+  currency: btc
+  fixed: 0
+  fee: 0.0005
+  inuse: true
+  type: WithdrawChannelOzeety
   
